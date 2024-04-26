@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="multiply_test" location="/home/ugrads/c/cedarmaxwell/Documents/ECEN449/lab3/multiply_test" platform="/home/ugrads/c/cedarmaxwell/Documents/ECEN449/lab3/multiply_wrapper/export/multiply_wrapper/multiply_wrapper.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="multiply_test_system" sysConfig="multiply_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="837c1a1954cff5f1ecd0a8e3203d36fa">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.535529677" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1813661472" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

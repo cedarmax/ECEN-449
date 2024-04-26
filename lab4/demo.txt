@@ -1,0 +1,24 @@
+hwclock: can't open '/dev/misc/rtc': No such file or directory
+Starting internet superserver: inetd.
+NFS daemon support not enabled in kernel
+Starting syslogd/klogd: done
+Starting tcf-agent: OK
+
+PetaLinux 2022.1_release_S04190222 linux_boot /dev/ttyPS0
+
+linux_boot login: petalinux
+You are required to change your password immediately (administrator enforced).
+New password: 
+Retype new password: 
+linux_boot:~$ sudo su - root
+
+We trust you have received the usual lecture from the local System
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+
+Password: 
+root@linux_boot:~# 
+
